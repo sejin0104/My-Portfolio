@@ -31,9 +31,9 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "강한자가 살아남는것이 아니라 살아남는자가 강한것이다"{" "}
           </p>
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">김유신 장군(General Kim Yu-shin)</footer>
         </blockquote>
       </Card.Body>
     </Card>
