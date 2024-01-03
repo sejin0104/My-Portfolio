@@ -28,6 +28,7 @@ function Projects() {
               title="SEJINJIN LANG"
               description="It's made with python, This project was very funny, This programm lamguage is supported korean also It's nervous"
               ghLink="https://github.com/sejin0104/sejinjin-lang"
+              demoLink="https://sejinjin.gitbook.io/wiki/english/sejinjin-lang"
             />
           </Col>
 
@@ -38,6 +39,7 @@ function Projects() {
               title="MineCraft, But Plugin"
               description="This is a Minecraft plugin project using the skript language, so if you play it, you'll need to be on your toes."
               ghLink="https://github.com/sejin0104/Minecraft-But"
+              demoLink="https://sejinjin.gitbook.io/wiki/english/minecraft-but"
             />
           </Col>
         </Row>
