@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://sejinjin.tistory.com/"
+                href="https://sejinjinit.tistory.com/"
                 target="_blank"
                 rel="noreferrer"
               >
